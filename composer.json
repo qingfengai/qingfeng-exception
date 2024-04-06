@@ -1,8 +1,7 @@
 {
     "name": "qingfengai/qingfeng-exception",
     "require": {
-        "php": ">=7.1.0",
-        "topthink/framework": "^6.0"
+        "php": ">=7.1.0"
     },
     "license": "Apache-2.0",
     "minimum-stability": "dev",
